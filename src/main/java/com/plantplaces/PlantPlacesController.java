@@ -21,7 +21,7 @@ public class PlantPlacesController {
 	
 	/**
 	 * 
-	 * Handle the /start endpoints
+	 * Handle the / endpoints
 	 * @return
 	 */
 	
